@@ -1,0 +1,157 @@
+.tv-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(9, 1, 32, 0.99);
+  width: 453px;
+  height: 720px;
+}
+.rectangle-div,
+.tv-1-child1,
+.tv-1-child2,
+.tv-1-inner,
+.tv-1-item {
+  position: absolute;
+  left: 9px;
+  border-radius: var(--br-8xs);
+  width: 435px;
+  height: 88px;
+}
+.tv-1-item {
+  top: 10px;
+  background-color: #180c38;
+}
+.rectangle-div,
+.tv-1-child1,
+.tv-1-child2,
+.tv-1-inner {
+  top: 138px;
+  background-color: var(--color-gray-100);
+}
+.rectangle-div,
+.tv-1-child1,
+.tv-1-child2 {
+  top: 246px;
+}
+.tv-1-child1,
+.tv-1-child2 {
+  top: 354px;
+}
+.tv-1-child2 {
+  top: 462px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 23px;
+  left: 18px;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.create-stream {
+  position: absolute;
+  top: 170px;
+  left: 142px;
+}
+.chukwunonso-prosper {
+  position: absolute;
+  top: 43px;
+  left: 93px;
+}
+.demo,
+.join-stream,
+.live-chat,
+.logout {
+  position: absolute;
+  top: 278px;
+  left: 142px;
+}
+.demo,
+.live-chat,
+.logout {
+  top: 386px;
+}
+.demo,
+.logout {
+  top: 494px;
+}
+.logout {
+  top: 666px;
+  left: 168px;
+  color: red;
+}
+.line-div {
+  position: absolute;
+  top: 117.5px;
+  left: 8.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 436px;
+  height: 1px;
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 3.04%;
+  width: 1.71%;
+  top: 23.89%;
+  right: 91.88%;
+  bottom: 73.07%;
+  left: 6.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  height: 2.78%;
+  width: 1.95%;
+  top: 38.47%;
+  right: 91.64%;
+  bottom: 58.75%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 3.05%;
+  top: 53.19%;
+  bottom: 43.75%;
+}
+.vector-icon3 {
+  height: 2.78%;
+  top: 69.17%;
+  right: 91.95%;
+  bottom: 28.06%;
+  left: 6.09%;
+}
+.welcome-to-codespace {
+  position: absolute;
+  top: 365px;
+  left: 640px;
+  font-size: 24px;
+  font-weight: 800;
+  color: #000;
+}
+.tv-1-child3 {
+  position: absolute;
+  top: 138px;
+  left: 749px;
+  border-radius: 50%;
+  width: 213px;
+  height: 213px;
+  object-fit: cover;
+}
+.tv-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
